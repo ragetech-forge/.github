@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ragetech.png" alt="Ragetech" width="96" height="96">
+  <img src="RageTech_tp.png" alt="Ragetech" width="96" height="96">
 </p>
 
 <h1 align="center">Ragetech</h1>
